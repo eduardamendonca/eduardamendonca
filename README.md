@@ -2,6 +2,7 @@
 
 - 🔭 Desenvolvedora Full-Stack
 - 🌱 Hoje trabalho como estagiária em TI
-- 👯 Atualmente estudando PHP e AWS
+- 👯 Atualmente estudando PHP e JavaScript
+- 
 
 
